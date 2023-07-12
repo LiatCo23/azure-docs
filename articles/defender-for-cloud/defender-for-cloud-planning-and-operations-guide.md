@@ -1,6 +1,6 @@
 ---
-title: Defender for Cloud Planning and Operations Guide
-description: This document helps you to plan before adopting Defender for Cloud and considerations regarding daily operations.
+Title: Defender for Cloud Planning and Operations Guide
+Description: This document helps you to plan before adopting Defender for Cloud and considerations regarding daily operations.
 ms.topic: conceptual
 ms.custom: ignite-2022
 ms.date: 02/06/2023
@@ -8,11 +8,16 @@ ms.date: 02/06/2023
 
 # Planning and operations guide
 
-This guide is for information technology (IT) professionals, IT architects, information security analysts, and cloud administrators planning to use Defender for Cloud.
+This guide was written for: 
+- Information technology (IT) professionals
+- IT architects
+- Information security analysts
+- Cloud administrators planning to use Microsoft Defender for Cloud. 
 
 ## Planning guide
 
-This guide provides the background for how Defender for Cloud fits into your organization's security requirements and cloud management model. It's important to understand how different individuals or teams in your organization use the service to meet secure development and operations, monitoring, governance, and incident response needs. The key areas to consider when planning to use Defender for Cloud are:
+This guide provides background information on how "Defender for Cloud" (DFC) fits into your organization's security requirements and cloud management model. 
+It's important to understand how different individuals or teams in your organization can use the service to meet secure development and operations, monitoring, governance, and incident response needs. The key areas to consider when planning to use Defender for Cloud are:
 
 - Security Roles and Access Controls
 - Security Policies and Recommendations
